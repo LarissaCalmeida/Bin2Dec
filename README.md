@@ -5,7 +5,7 @@
 
 ## In Use:
 
-Demo:
+Demo: https://bin2dec-inky.vercel.app/
 
 ![](in-use.png)
 
@@ -34,11 +34,11 @@ constraints:
 -   [x] User must be notified if anything other than a 0 or 1 was entered
 -   [x] User views the results in a single output field containing the decimal (base 10) equivalent of the binary number that was entered
 
-## Bonus features
+## Bonus Features
 
 -   [x] User can enter a variable number of binary digits
 
-## :rocket: Tecnologias Usada:
+## :rocket: Tech Used:
 -   HTML5
 -   CSS3
 -   JavaScript
